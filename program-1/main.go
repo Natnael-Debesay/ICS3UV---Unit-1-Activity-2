@@ -11,7 +11,7 @@ import "fmt"
 func main() {
 	// string literal text
 	fmt.Println("Natnael Debesay")
-	
+
 	// string literal text
 	fmt.Println("TWJ3E1 Custom Woodworking")
 
@@ -25,5 +25,4 @@ func main() {
 	fmt.Println("PAL3OR Large Group Activities - Basketball and Volleyball")
 
 	fmt.Println("\nDone.")
-}
-	
+} 
