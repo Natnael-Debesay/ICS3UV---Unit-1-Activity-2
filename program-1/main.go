@@ -1,8 +1,8 @@
 /*
- * Author: Nathael Debesay
- * Version: 1.0.0
- * Date: 2025-09-29
- * This program displays the names of the couses I am taking this semester.
+ * @author Nathael Debesay
+ * @version 1.0.0
+ * @date 2025-09-29
+ * @fileoverview This program displays the names of the couses I am taking this semester.
  */
 
 package main
