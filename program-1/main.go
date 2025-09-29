@@ -1,9 +1,9 @@
 /*
-* Author: Nathael Debesay
-* Version: 1.0.0
-* Date: 2025-09-29
-* This program displays the names of the couses I am taking this semester.
-*/
+ * Author: Nathael Debesay
+ * Version: 1.0.0
+ * Date: 2025-09-29
+ * This program displays the names of the couses I am taking this semester.
+ */
 
 package main
 import "fmt"
