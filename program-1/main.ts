@@ -18,6 +18,6 @@ console.log("NBE3UR English-University - Contemporary First Nations, Metis and I
 console.log("ICS3UV Introduction to Computer Programming");
 
 //string literal text
-console.log("Large Group Activities - Basketball and Volleyball");
+console.log("PAL3OR Large Group Activities - Basketball and Volleyball");
 
 console.log("\nDone.");
